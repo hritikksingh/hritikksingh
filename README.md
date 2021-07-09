@@ -1,7 +1,10 @@
-### Hi there 👋
 
-- 🔭 I’m currently working on Deep Learning Models
-- 🌱 I’m currently learning CNN
-- 💬 Ask me about Tech
-- 📫 How to reach me: kvnl.hritik@gmail.com
-- ⚡ Fun fact: Hritik love Street Foods
+### Hi👋 I'm Hritik Kumar Singh
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=hritikksingh&count_private=true&theme=tokyonight&showicons=true)]()
+###
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hritikksingh&langs_count=5&theme=tokyonight)]()
+
+<hr/>
+
+

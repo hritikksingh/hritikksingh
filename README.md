@@ -8,4 +8,4 @@
 <hr/>
 
 
-![visitors count](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/hritikksingh-github-readme)
+![Visitor Count](https://komarev.com/ghpvc/?username=hritikksingh&color=blueviolet&style=flat-square)
